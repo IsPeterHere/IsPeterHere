@@ -1,1 +1,1 @@
-I have moved from github to a [forgejo instance](https://forgejo.org), my repositories and projects can now be found here 🙂  --->         <a href="https://www.pvm-project.co.uk/PeterMay?tab=repositories">Forgejo-PeterMay</a>
+I have moved from github to a [forgejo](https://forgejo.org) instance, my Repositories and Projects can now be found there 🙂  --->         <a href="https://www.pvm-project.co.uk/PeterMay?tab=repositories">Forgejo-PeterMay</a>
